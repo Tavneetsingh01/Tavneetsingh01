@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tavneetsingh01
-- 👀 I’m interested in Web Development and windows app developent
-- 🌱 I’m currently learning machine learning
+- 👀 I'm a PhD researcher at School of Computer Science and Engineering at Shri Mata Vano Devi.
+- 🌱 I’m currently working on application of Multi-Modal Large Language Models (MM-LLM) for Healthcare Domain
 - 📫 you can reach me on my e-mail : tavneet234@gmail.com
 
 <!---
